@@ -1,0 +1,30 @@
+C:\Users\Asus\source\repos\Pizzadeneme\obj\Debug\Pizzadeneme.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Pizzadeneme\obj\Debug\Pizzadeneme.Form1.resources
+C:\Users\Asus\source\repos\Pizzadeneme\obj\Debug\Pizzadeneme.Properties.Resources.resources
+C:\Users\Asus\source\repos\Pizzadeneme\obj\Debug\Pizzadeneme.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\Pizzadeneme\obj\Debug\Pizzadeneme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Pizzadeneme\bin\Debug\Pizzadeneme.exe.config
+C:\Users\Asus\source\repos\Pizzadeneme\bin\Debug\Pizzadeneme.exe
+C:\Users\Asus\source\repos\Pizzadeneme\bin\Debug\Pizzadeneme.pdb
+C:\Users\Asus\source\repos\Pizzadeneme\obj\Debug\Pizzadeneme.exe
+C:\Users\Asus\source\repos\Pizzadeneme\obj\Debug\Pizzadeneme.pdb
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\bin\Debug\Pizzadeneme.exe.config
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\bin\Debug\Pizzadeneme.exe
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\bin\Debug\Pizzadeneme.pdb
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\obj\Debug\Pizzadeneme.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\obj\Debug\Pizzadeneme.Form1.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\obj\Debug\Pizzadeneme.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\obj\Debug\Pizzadeneme.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\obj\Debug\Pizzadeneme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\obj\Debug\Pizzadeneme.exe
+C:\Users\Asus\source\repos\A.OTOMASYONLAR + ADO NET\Pizzadeneme\obj\Debug\Pizzadeneme.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\bin\Debug\Pizzadeneme.exe.config
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\bin\Debug\Pizzadeneme.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\bin\Debug\Pizzadeneme.pdb
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\obj\Debug\Pizzadeneme.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\obj\Debug\Pizzadeneme.Form1.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\obj\Debug\Pizzadeneme.Properties.Resources.resources
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\obj\Debug\Pizzadeneme.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\obj\Debug\Pizzadeneme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\obj\Debug\Pizzadeneme.exe
+C:\Users\Asus\source\repos\AAA.BITEN PROJELER\MASAUSTU\OTOMASYONLAR\Pizzadeneme\obj\Debug\Pizzadeneme.pdb
